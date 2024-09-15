@@ -1,0 +1,38 @@
+// ---------------------------------------
+// Tablar styles and configuration
+// ---------------------------------------
+
+// Default (LTR) Tabler Styles.
+// DISABLE this line if you want to enable Right-to-Left (RTL) support.
+@import "../../node_modules/@tabler/core/src/scss/tabler";
+
+// ENABLE the following line for Right-to-Left (RTL) support.
+// @import "../../node_modules/@tabler/core/dist/css/tabler.rtl.css";
+
+// Tabler Vendor Styles.
+@import "../../node_modules/@tabler/core/src/scss/tabler-vendors";
+
+// Tabler Flags Styles.
+// ENABLE the following line for Flags Icon style support.
+// @import "../../node_modules/@tabler/core/src/scss/tabler-flags";
+
+// Tabler Payment Styles.
+// ENABLE the following line for Payment Icon style support.
+// @import "../../node_modules/@tabler/core/src/scss/tabler-payments";
+
+// Tabler Social Styles.
+// ENABLE the following line for Social Icon style support.
+// @import "../../node_modules/@tabler/core/src/scss/tabler-social";
+
+// Tabler Webfont Icons
+@import "../../node_modules/@tabler/icons-webfont/tabler-icons.css";
+
+// Custom Icon Sizes and Styles
+@import "../css/icon-style.css";
+// Add this to your custom SCSS file or override where necessary
+@import "bootstrap/scss/functions";
+
+// Override the opaque function
+// @function opaque($foreground, $background) {
+//     @return mix(rgba($foreground, 1), $background, opacity($foreground) * 1%);
+// }
