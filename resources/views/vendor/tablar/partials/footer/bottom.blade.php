@@ -26,7 +26,7 @@
                 <ul class="list-inline list-inline-dots mb-0">
                     <li class="list-inline-item">
                         Copyright &copy; 2024 Developed By
-                        <a href="https://luqmansamtia.netlify.app"
+                        <a target="_blank" href="https://luqmansamtia.netlify.app"
                            class="link-secondary"> LUQMAN</a>.
                         All rights reserved.
                     </li>
