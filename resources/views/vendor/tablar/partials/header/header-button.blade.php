@@ -1,4 +1,4 @@
-<a href="https://github.com/takielias/tablar" class="btn" target="_blank" rel="noreferrer">
+<a href="https://github.com/luqman-samtia/tabler" class="btn" target="_blank" rel="noreferrer">
     <!-- Download SVG icon from http://tabler-icons.io/i/brand-github -->
     <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24"
          viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
@@ -9,7 +9,7 @@
     </svg>
     Source code
 </a>
-<a href="https://www.buymeacoffee.com/takielias" class="btn" target="_blank" rel="noreferrer">
+<a href="https://github.com/luqman-samtia/tabler" class="btn" target="_blank" rel="noreferrer">
     <!-- Download SVG icon from http://tabler-icons.io/i/heart -->
     <svg xmlns="http://www.w3.org/2000/svg" class="icon text-pink" width="24" height="24"
          viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"

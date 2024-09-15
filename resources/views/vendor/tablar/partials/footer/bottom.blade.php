@@ -3,10 +3,10 @@
         <div class="row text-center align-items-center flex-row-reverse">
             <div class="col-lg-auto ms-lg-auto">
                 <ul class="list-inline list-inline-dots mb-0">
-                    <li class="list-inline-item"><a href="https://github.com/takielias/tablar" target="_blank"
+                    <li class="list-inline-item"><a href="https://github.com/luqman-samtia/tabler" target="_blank"
                                                     class="link-secondary" rel="noopener">Source code</a></li>
                     <li class="list-inline-item">
-                        <a href="https://www.buymeacoffee.com/takielias" target="_blank" class="link-secondary"
+                        <a href="https://github.com/luqman-samtia/tabler" target="_blank" class="link-secondary"
                            rel="noopener">
                             <!-- Download SVG icon from http://tabler-icons.io/i/heart -->
                             <svg xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
             <div class="col-12 col-lg-auto mt-3 mt-lg-0">
                 <ul class="list-inline list-inline-dots mb-0">
                     <li class="list-inline-item">
-                        Copyright &copy; 2022
-                        <a href="https://ebuz.xyz"
-                           class="link-secondary">{{config('tablar.bottom_title', 'TabLar')}}</a>.
+                        Copyright &copy; 2024 Developed By
+                        <a href="https://luqmansamtia.netlify.app"
+                           class="link-secondary"> LUQMAN</a>.
                         All rights reserved.
                     </li>
                     <li class="list-inline-item">
